@@ -1,6 +1,3 @@
-# csv_import_tool
-A csv import tool to import any csv file into a InfluxData Cluster. 
-
 # cvs_import_tool
 A csv import tool to import any csv file into a InfluxData Cluster.
 
